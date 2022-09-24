@@ -1,4 +1,5 @@
 ### Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/ggarg2906?theme=dark&font=Noto%20Sans%20Shavian&ext=heatmap)
 
 <!--
 **Gourav2906/Gourav2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
