@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/ggarg2906?theme=light&font=Alatsi&ext=heatmap&width=500&height=500)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ggarg2906?theme=light&font=Alatsi&ext=heatmap&width=1000&height=200)
 
 <!--
 **Gourav2906/Gourav2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
